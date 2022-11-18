@@ -1,4 +1,5 @@
-### Hi there 👋
+# RESUME 2022. 9
+
 
 <!--
 **Sbeom12/Sbeom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
