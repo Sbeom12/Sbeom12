@@ -7,6 +7,12 @@
 광운대학교에 재학하면서 다양한 프로젝트를 경험했으며, 프로젝트를 하면서 겪었던 문제들과 경험들이 있어서 프로젝트 수행에 어려움이 없습니다. 
 프로젝트를 진행할 때 큰 그림을 그려가면서 설계하는 편이며 팀원과의 협업과 소통을 중요시합니다.
 
+## 언어
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+
+## 관련링크
+<a href = "https://github.com/Sbeom12"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a> 
 ## 경력
 * C큐브 코딩학원(용인수지점) – (22년 3월 5일 ~)
 
@@ -33,7 +39,9 @@
   * 담당 역할: 진자 운동을 하기 위한 프로그램 설계 및 코딩, 완성된 프로그램에 대한 결과 분석 및 디버깅
   * 결과물 : https://drive.google.com/drive/folders/1w8HmTdbfU_lWPh950c-NHSuxz78UK1wi?usp=sharing
   
-  🔭 I’m currently working on ...
+  ### 3. 배터리 잔량 측정기
+  * 기간 : 2021년 4월 26일 ~ 6월 18일
+
 
 
 <!--
