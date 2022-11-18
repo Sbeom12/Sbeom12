@@ -12,7 +12,8 @@
 
 ## 관련링크
 <a href = "https://github.com/Sbeom12"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> 
+</a> <a href = "https://www.instagram.com/s.beom3/"><img alt="Instagram" src ="https://img.shields.io/badge/instagram-#E4405F.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a> https://www.instagram.com/
 ## 경력
 * C큐브 코딩학원(용인수지점) – (22년 3월 5일 ~)
 
