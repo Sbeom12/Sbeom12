@@ -15,7 +15,7 @@
 </a> <a href = "https://www.instagram.com/s.beom3/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 ## 경력
-* C큐브 코딩학원(용인수지점) – (22년 3월 5일 ~)
+* C큐브 코딩학원(용인수지점) – (22년 3월 5일 ~ 23년 2월 28)
 
 ## 학력
 * 광운대학교 - 전기공학과 전공 (2018년 3월 ~ 2024년 2월)
