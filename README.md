@@ -42,16 +42,19 @@
   
   ### 3. 배터리 잔량 측정기
   * 기간 : 2021년 4월 26일 ~ 6월 18일
+  ### 4.
+  ### 5.
+  ### 6. 
+  ### 7.
 
-
-
+- 🌱 I’m currently learning ...
 <!--
 **Sbeom12/Sbeom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
