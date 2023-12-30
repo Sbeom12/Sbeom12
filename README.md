@@ -8,10 +8,6 @@
 ## 언어
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 
-## 관련링크
-<a href = "https://github.com/Sbeom12"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> <a href = "https://www.instagram.com/s.beom3/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
 ## 경력
 * C큐브 코딩학원(용인수지점) – (22년 3월 5일 ~ 23년 2월 28)
 
